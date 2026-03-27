@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **AshmitaArvind/AshmitaArvind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF32H4-cQVk2g/profile-displayphoto-crop_800_800/B4DZoTAhjlKQAI-/0/1761255497315?e=1776297600&v=beta&t=_9AOmwClYSvfcg4_hCPQX-Ds8lMejT08Z2TWPS_EcN0" alt="Ashmita" width="190" height="190">
+</p>
 
 # Hi, I'm Ashmita 👋
 ### Digital Product Strategist | Cloud & AI Leader | People · Process · Problems
@@ -40,7 +42,7 @@ When technology solves a real problem for a real person, that's the only metric 
 
 ## 💼 Professional Life
 
-**Microsoft | Consultant → Senior Consultant** *(2019 – 2025)*
+**Microsoft | Associate Consultant → Cloud & AI Consultant** *(2019 – 2025)*
 
 Some of what I shipped:
 
@@ -107,4 +109,4 @@ Scripts - Powershell, Shell, Bash, YAML, JS <br>
 
 ---
 
-*Currently based in Mannheim but often can be found wandering in the streets of Berlin, Germany. Open to product leadership and transformation roles in cloud, AI and enterprise tech.*
+*Currently based in Mannheim but often can be found wandering around the TV tower of Berlin, Germany. Open to product leadership and transformation roles in cloud, AI and enterprise tech.*
