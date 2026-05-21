@@ -15,43 +15,43 @@
 
 <br/>
 
-# Hi, I'm Ashmita 👋
-### Digital Product Strategist | Cloud & AI Leader | People · Process · Problems
-
-> *"I don't just build technology. I build the systems, teams, and clarity that make technology matter."*
+# Hi, I'm Ash short for Ashmita!
+### Digital Product strategist | Build in Consulting | Wired for people
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a product-oriented technologist with 6+ years at **Microsoft**, now completing my **MBA at Mannheim Business School** (Digitalization track at **SDA Bocconi**, Milan).
 
 My work sits at the intersection of three things I genuinely care about:
 
-- 🧑‍🤝‍🧑 **People** — aligning diverse, cross-continental teams around a shared product vision
-- ⚙️ **Process** — standardizing, automating and scaling operations that quietly power enterprises
-- 🔍 **Problems** — taking messy, ill-defined challenges and shaping them into adopted solutions
+- **People** → aligning diverse, cross-continental teams around a shared product vision
+- **Process** → standardizing, automating and scaling operations that quietly power enterprises
+- **Problems** → taking messy, ill-defined challenges and shaping them into adopted solutions
 
-I've built cloud governance frameworks, AI-powered knowledge platforms, and DevOps pipelines for Fortune 500 clients in telecom, automotive, manufacturing, brewing and media — across Africa, Europe, Asia and the Americas.
+**I've built cloud governance frameworks, AI-powered knowledge platforms, and DevOps pipelines for Fortune 500 clients in telecom, automotive, manufacturing, brewing and media across Africa, Europe, Asia and the Americas.**
 
 When technology solves a real problem for a real person, that's the only metric I care about.
 
 ---
 
-## 💼 Professional Life
+## Professional Life
 
 **Microsoft Associate Consultant → Cloud & AI Consultant** *(2019 – 2025)*
 
 Some of what I shipped:
 
-- 🏗️ Defined and owned **data governance product strategy** across 9 Azure environments, standardizing operations for 3+ enterprise tenants and saving **1,500+ engineering hours annually**
-- 🚀 Drove product roadmap for **automated tenant onboarding on Azure**, scaling 10x and cutting onboarding from days to hours for a global optics leader in Germany
-- 🤖 Co-created an **AI-powered knowledge management platform** with the Product Council, enabling field engineers at ABB manufacturing plants to self-serve critical information, driving **90% efficiency gains**
-- 📊 Owned end-to-end lifecycle of a **data intelligence platform** for a global telecom enterprise, reducing data processing time by **45%**
-- 🌍 Led cross-functional teams across **Asia, Americas and Europe** to deliver 200+ digitization modules for a US-based consulting firm
-- ☁️ Built a **one-click Azure deployment solution** that cut release cycles by 150% and unlocked cloud access for underserved markets across Africa
-- 💰 Implemented automation roadmaps saving **$500K annually** for the world's largest brewing company
-- 🏎️ Engineered real-time telemetry solutions for a global automotive leader, accelerating vehicle activity insights by 50%
+- Led envisioning workshop and product development of AI powered knowledge management platform to help expedite hardware parts and instructions search from 140 hours to 100 hours monthly.
+- Designed cloud governance and application insights platform across multiple cloud environments that saved 357 engineering hours in 6 months.
+- Coordinated delivery of automated tenant onboarding platform that increased the set-up speed by 6 times, from 3 days 0.5 days.
+- Consulted for product requirements and delivered a one-click deployable cloud solution on Azure that created platform resilient to disaster recovery
+- Delegated cloud infrastructure product development team spanning Asia, Americas, and Europe consisting of 31 members.	
+- Consulted for product requirements and delivered a one-click deployable cloud solution on Azure that created platform resilient to disaster recovery.
+- Standardised microservices deployment to improve reusability of code with script templates thus eliminated siloed code for 245 microservices deployed across 8 environments.
+- Launched migration of more than 350 virtual machine servers to support high performance media broadcasting within a span of 1.5 months.
+- Created data extraction modules to monitor emergency call signals released from IoT devices installed electronic car and uploaded them via scheduled batch processing with at least 9 fewer operations per execution stage
+
 
 **Microsoft DevOps Dojo | DevOps Coach** *(2021 – 2024)*
 Coached global organizations on DevOps automation and GitHub strategy as part of the worldwide DevOps Dojo community.
@@ -61,7 +61,7 @@ Mentored banks and university students across Africa on cloud computing, Kuberne
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Year |
 |---|---|---|
@@ -71,7 +71,7 @@ Mentored banks and university students across Africa on cloud computing, Kuberne
 
 **MBA coursework:** Strategy, Marketing, Data Science & AI in Business, Managerial Accounting, Organizational Behavior, Change Management, Supply Chain & Operations, Stakeholder Mapping, Negotiation, Qualitative & Quantitative Analysis.
 
-**B.Tech foundations:** Algorithms, Computer Architecture, Human-Computer Interaction, Operating Systems, Compilers, Theory of Computation, Networking, Databases, Data Logic, and Programming. Built full-stack web apps (PHP, JS, HTML, CSS) and game engines powered by backtracking algorithms.
+**B.Tech foundations:** Algorithms, Computer Architecture, Human-Computer Interaction, Operating Systems, Compilers, Theory of Computation, Computer Networking, Databases, Data Logic, and Programming. Built full-stack web apps (PHP, JS, HTML, CSS) and game engines powered by backtracking algorithms.
 
 ---
 
@@ -82,12 +82,12 @@ AI & Data → AI Analytics, Power BI, Power Automate, LLM Integration <br>
 Product → Roadmapping, OKRs, Stakeholder Management, Agile & Scrum <br>
 Design → Figma, Canva <br>
 Languages → .Net, Python (basic), .Net (intermediate), JavaScript, SQL, R, Unix System Programming, HTML, CSS <br>
-Scripts - Powershell, Shell, Bash, YAML, JS <br>
+Scripts → Powershell, Shell, Bash, YAML, JS <br>
 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - AZ-400 DevOps Expert
 - AZ-104 Azure Administrator
@@ -95,7 +95,7 @@ Scripts - Powershell, Shell, Bash, YAML, JS <br>
 - SC-900 Security Fundamentals
 - DevOps Coach (Microsoft Azure US)
 - Certified OKR (OKR Institute)
-- Product Management (Pento)
+- AI Product Management (Pento)
 - MCAPS Advanced Stakeholder Management
 
 ---
@@ -111,8 +111,6 @@ Scripts - Powershell, Shell, Bash, YAML, JS <br>
 
 *Currently based in Mannheim. Often found wandering around the TV tower of Berlin.*
 *Open to product leadership and transformation roles in cloud, AI and enterprise tech.*
-
-</div>
 
 <br/>
 
