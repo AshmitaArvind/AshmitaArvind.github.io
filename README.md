@@ -15,13 +15,11 @@
 <br/><br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashpan1-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashpan1)
-[![Email](https://img.shields.io/badge/Email-ashmita.arvind%40outlook.com-8b5cf6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ashmita.arvind@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AshmitaArvind-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshmitaArvind)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashpan1-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashpan1)
+[![Email](https://img.shields.io/badge/Email-ashmita.arvind@outlook.com-blue?style=flat&logo=gmail)](mailto:ashmita.arvind@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AshmitaArvind-06b6d4?style-green?style=flat&logo=github)](https://github.com/AshmitaArvind)
 
 <br/>
-
-> *"I don't just build technology. I build the systems, teams, and clarity that make technology matter."*
 
 </div>
 
@@ -130,7 +128,7 @@ Scripts - Powershell, Shell, Bash, YAML, JS <br>
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashpan1-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashpan1)
-[![Email](https://img.shields.io/badge/Email-ashmita.arvind@outlook.com-red?style=flat&logo=gmail)](mailto:ashmita.arvind@outlook.com)
+[![Email](https://img.shields.io/badge/Email-ashmita.arvind@outlook.com-blue?style=flat&logo=gmail)](mailto:ashmita.arvind@outlook.com)
 
 ---
 
