@@ -15,7 +15,7 @@
 
 <br/>
 
-# Hi, I'm Ash short for Ashmita!
+# Hi, I'm Ash (short for Ashmita)!
 ### Digital Product strategist | Build in Consulting | Wired for people
 
 ---
