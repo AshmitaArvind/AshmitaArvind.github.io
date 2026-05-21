@@ -12,14 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=People+%C2%B7+Process+%C2%B7+Problems;6%2B+Years+at+Microsoft;MBA+%40+Mannheim+Business+School;Building+things+that+actually+matter." alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashpan1-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashpan1)
-[![Email](https://img.shields.io/badge/Email-ashmita.arvind@outlook.com-blue?style=flat&logo=gmail)](mailto:ashmita.arvind@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AshmitaArvind-green?style=flat&logo=github)](https://github.com/AshmitaArvind)
-
-<br/>
 
 </div>
 
