@@ -69,13 +69,13 @@ Mentored banks and university students across Africa on cloud computing, Kuberne
 | Digital Business Transformation | SDA Bocconi, Milan, Italy | Jan 2026 |
 | B.Tech, Computer Science & IT | Siksha 'O' Anusandhan University, India | 2015 – 2019 |
 
-**MBA coursework:** Strategy, Marketing, Data Science & AI in Business, Managerial Accounting, Organizational Behavior, Change Management, Supply Chain & Operations, Stakeholder Mapping, Negotiation, Qualitative & Quantitative Analysis.
+**MBA coursework:** Strategy, Marketing, Data Science & AI in Business, AI & ML in Business, Managerial Accounting, Organizational Behavior, Change Management, Supply Chain & Operations, Stakeholder Mapping, Negotiation, Qualitative & Quantitative Analysis, Systematic Creativity in Business.
 
 **B.Tech foundations:** Algorithms, Computer Architecture, Human-Computer Interaction, Operating Systems, Compilers, Theory of Computation, Computer Networking, Databases, Data Logic, and Programming. Built full-stack web apps (PHP, JS, HTML, CSS) and game engines powered by backtracking algorithms.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 Cloud → Azure (Advanced), Infrastructure as Code, Azure Runbook <br>
 DevOps → CI/CD, GitHub, Docker, Kubernetes (AKS), Helm, GitOps <br>
 AI & Data → AI Analytics, Power BI, Power Automate, LLM Integration <br>
@@ -100,7 +100,7 @@ Scripts → Powershell, Shell, Bash, YAML, JS <br>
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashpan1-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashpan1)
 [![Email](https://img.shields.io/badge/Email-ashmita.arvind@outlook.com-blue?style=flat&logo=gmail)](mailto:ashmita.arvind@outlook.com)
