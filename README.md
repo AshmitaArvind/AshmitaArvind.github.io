@@ -40,7 +40,7 @@ When technology solves a real problem for a real person, that's the only metric 
 
 ## 💼 Professional Life
 
-**Microsoft | Associate Consultant → Cloud & AI Consultant** *(2019 – 2025)*
+**Microsoft Associate Consultant → Cloud & AI Consultant** *(2019 – 2025)*
 
 Some of what I shipped:
 
