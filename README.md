@@ -17,7 +17,7 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashpan1-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashpan1)
 [![Email](https://img.shields.io/badge/Email-ashmita.arvind@outlook.com-blue?style=flat&logo=gmail)](mailto:ashmita.arvind@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AshmitaArvind-06b6d4?style-green?style=flat&logo=github)](https://github.com/AshmitaArvind)
+[![GitHub](https://img.shields.io/badge/GitHub-AshmitaArvind-green?style=flat&logo=github)](https://github.com/AshmitaArvind)
 
 <br/>
 
